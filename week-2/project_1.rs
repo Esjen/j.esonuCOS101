@@ -5,6 +5,6 @@ fn main() {
 
    //computes the compound interest
    let ci = p* (1.0 + (r/100.0)).powf(n) - p;
-  use :: printIn!("Compound interest is {}", ci);
+   println!("Compound interest is {}", ci);
 
  }  
