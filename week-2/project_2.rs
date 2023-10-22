@@ -23,7 +23,7 @@ fn main() {
    println!("The Sum is {}",sum );
    
    let n=qt+qm+qh+qd+qa;
-   let average = sum/n;
-   println!("The Average is {}",average );
+   let avg = sum/n;
+   println!("The Average is {}",avg );
 
 }
