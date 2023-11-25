@@ -59,7 +59,8 @@ fn main() {
          println!("\nYou can vote!");
         }else {
         println!("Sorry, you are not eligible to vote");
-         }           
+         } 
+                   
 
 
     }
