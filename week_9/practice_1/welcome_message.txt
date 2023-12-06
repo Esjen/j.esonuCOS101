@@ -1,0 +1,5 @@
+Welcome to Rust programming!
+You have achieved the first step in becoming a Rustacian
+feel free to check out all the available features to enhance your rust experience.
+We hope you have a great time with rust.
+Happy Programming!

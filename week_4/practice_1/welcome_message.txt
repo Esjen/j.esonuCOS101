@@ -1,0 +1,4 @@
+Welcome to Rust programming my fellow Rustacian!
+it is a pleasure to meet you!
+We hope you have a great time with Rust and we hope that Rust will become your favourite.
+Happy Programming!
