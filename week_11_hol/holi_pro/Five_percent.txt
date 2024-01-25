@@ -1,0 +1,10 @@
+
+	Company			Date Founded		Shares			Liabilities	Leverage(%)
+	Cadburry Nigeria Plc		1965		15000000		5500000		3.1666667
+      Champion Breweries Plc		1974		25000000		8000000		3.4
+      Dangote Sugar Refinery Plc	1970		18000000		10000000	2.2222223
+      Flour Mills Nigeria Plc		1960		32000000		4000000		4.375
+      Nestle Nigeria Plc		1961		8000000			1500000		4.0625
+      Unilever Nigeria Plc		1923		37000000		11000000	3.5135136
+      Honeywell Nigeria Plc		1906		34000000		9000000		3.6764705
+      Nigerian Breweries Plc		1960		30000000		12000000	3.0000002
